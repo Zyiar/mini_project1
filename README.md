@@ -47,7 +47,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-# Run basketball.py script
+### Run basketball.py script
 ```bash
 python basketball.py
 ```
