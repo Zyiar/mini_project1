@@ -28,5 +28,4 @@ Clone the repository:
 
 ```bash
 git clone <https://github.com/Zyiar/mini_project1.git>
-cd <repository_folder>
 ```
