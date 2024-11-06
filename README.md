@@ -27,6 +27,6 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/Zyiar/mini_project1.git>
 cd <repository_folder>
 ```
