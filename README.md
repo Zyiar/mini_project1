@@ -29,4 +29,27 @@ Clone the repository:
 
 ```bash
 git clone <https://github.com/Zyiar/mini_project1.git>
+cd mini_project1
 ```
+
+# Create a virtual environment (if not already created)
+```bash
+python -m venv venv
+```
+
+# On Windows
+```bash
+venv\Scripts\activate
+```
+
+# On macOS/Linux
+```bash
+source venv/bin/activate
+```
+
+# Run basketball.py script
+```bash
+python basketball.py
+```
+
+Output will be in 'basketball.png'
