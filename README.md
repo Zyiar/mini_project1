@@ -20,3 +20,13 @@ You can install Pycairo and other dependencies with the following command:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## How to Run
+
+Clone the repository:
+
+```bash
+git clone <repository_url>
+cd <repository_folder>
+```
