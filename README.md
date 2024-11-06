@@ -32,17 +32,17 @@ git clone <https://github.com/Zyiar/mini_project1.git>
 cd mini_project1
 ```
 
-# Create a virtual environment (if not already created)
+### Create a virtual environment (if not already created)
 ```bash
 python -m venv venv
 ```
 
-# On Windows
+### On Windows
 ```bash
 venv\Scripts\activate
 ```
 
-# On macOS/Linux
+### On macOS/Linux
 ```bash
 source venv/bin/activate
 ```
