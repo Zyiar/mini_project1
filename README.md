@@ -12,6 +12,7 @@ This project uses Python and the Pycairo library to draw a detailed basketball h
 - `draw_stand`: Draws the stand for the hoop and backboard.
 - `draw_connector`: Adds a connector between the stand and the hoop.
 - `draw_sphere`: Creates a spherical ball with gradient shading for light reflection.
+- `draw_grid`: Creates a grid for guidance during drawing
 
 
 ## Prerequisites
